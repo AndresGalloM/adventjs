@@ -58,5 +58,6 @@
 | 02| [Ponemos en marcha la fabrica](2023/challenge_02/README.md)   | [Ver](2023/challenge_02/solution.js) | Facil        |
 | 03| [El elfo travieso](2023/challenge_03/README.md)               | [Ver](2023/challenge_03/solution.js) | Facil        |
 | 04| [Dale la vuelta a los parentesis](2023/challenge_04/README.md)| [Ver](2023/challenge_04/solution.js) | Medio        |
+| 05| [El CyberTrunk de Santa](2023/challenge_05/README.md)         | [Ver](2023/challenge_05/solution.js) | Medio        |
 
 </details>
