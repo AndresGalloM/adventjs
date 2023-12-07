@@ -21,6 +21,7 @@
 | 05| [Contando los días para los regalos](2021/challenge_05/README.md)    | [Ver](2021/challenge_05/solution.js) | Facil        |
 | 06| [Rematando los exámenes finales](2021/challenge_06/README.md)        | [Ver](2021/challenge_06/solution.js) | Medio        |
 | 07| [Buscando en el almacén...](2021/challenge_07/README.md)             | [Ver](2021/challenge_07/solution.js) | Medio        |
+| 08| [La locura de las criptomonedas.](2021/challenge_08/README.md)       | [Ver](2021/challenge_08/solution.js) | Medio        |
 
 </details>
 
@@ -43,6 +44,7 @@
 | 05| [Optimizando viajes de Santa](2022/challenge_05/README.md)                      | [Ver](2022/challenge_05/solution.js) | Dificil      |
 | 06| [Creando adornos navideños](2022/challenge_06/README.md)                        | [Ver](2022/challenge_06/solution.js) | Medio        |
 | 07| [Haciendo inventario de regalos](2022/challenge_07/README.md)                   | [Ver](2022/challenge_07/solution.js) | Facil        |
+| 08| [Necesitamos un mecanico!](2022/challenge_08/README.md)                         | [Ver](2022/challenge_08/solution.js) | Medio        |
 
 </details>
 
