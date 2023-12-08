@@ -66,6 +66,7 @@
 | 04| [Dale la vuelta a los parentesis](2023/challenge_04/README.md)| [Ver](2023/challenge_04/solution.js) | Medio        |
 | 05| [El CyberTrunk de Santa](2023/challenge_05/README.md)         | [Ver](2023/challenge_05/solution.js) | Medio        |
 | 06| [Los renos a prueba](2023/challenge_06/README.md)             | [Ver](2023/challenge_06/solution.js) | Facil        |
-| 07| [Las cjas en 3D](2023/challenge_07/README.md)                 | [Ver](2023/challenge_07/solution.js) | Facil        |
+| 07| [Las cajas en 3D](2023/challenge_07/README.md)                | [Ver](2023/challenge_07/solution.js) | Facil        |
+| 08| [Ordenando el almacén](2023/challenge_08/README.md)           | [Ver](2023/challenge_08/solution.js) | Medio        |
 
 </details>
