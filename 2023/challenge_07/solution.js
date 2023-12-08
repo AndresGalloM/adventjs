@@ -13,5 +13,3 @@ function drawGift(size, symbol) {
 
   return up.join('') + down.slice(0, -1).reverse().join('')
 }
-
-console.log(drawGift(5, '*'))
