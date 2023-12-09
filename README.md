@@ -70,5 +70,6 @@
 | 06| [Los renos a prueba](2023/challenge_06/README.md)             | [Ver](2023/challenge_06/solution.js) | Facil        |
 | 07| [Las cajas en 3D](2023/challenge_07/README.md)                | [Ver](2023/challenge_07/solution.js) | Facil        |
 | 08| [Ordenando el almacén](2023/challenge_08/README.md)           | [Ver](2023/challenge_08/solution.js) | Medio        |
+| 09| [Alterna las luces](2023/challenge_09/README.md)              | [Ver](2023/challenge_09/solution.js) | Facil        |
 
 </details>
