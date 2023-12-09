@@ -22,6 +22,7 @@
 | 06| [Rematando los exámenes finales](2021/challenge_06/README.md)        | [Ver](2021/challenge_06/solution.js) | Medio        |
 | 07| [Buscando en el almacén...](2021/challenge_07/README.md)             | [Ver](2021/challenge_07/solution.js) | Medio        |
 | 08| [La locura de las criptomonedas.](2021/challenge_08/README.md)       | [Ver](2021/challenge_08/solution.js) | Medio        |
+| 09| [Agrupando cosas automáticamente](2021/challenge_09/README.md)       | [Ver](2021/challenge_09/solution.js) | Dificil      |
 
 </details>
 
@@ -45,6 +46,7 @@
 | 06| [Creando adornos navideños](2022/challenge_06/README.md)                        | [Ver](2022/challenge_06/solution.js) | Medio        |
 | 07| [Haciendo inventario de regalos](2022/challenge_07/README.md)                   | [Ver](2022/challenge_07/solution.js) | Facil        |
 | 08| [Necesitamos un mecanico!](2022/challenge_08/README.md)                         | [Ver](2022/challenge_08/solution.js) | Medio        |
+| 09| [Las locas luces de Navidad](2022/challenge_09/README.md)                       | [Ver](2022/challenge_09/solution.js) | Facil        |
 
 </details>
 
