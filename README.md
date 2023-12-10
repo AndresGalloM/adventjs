@@ -23,6 +23,7 @@
 | 07| [Buscando en el almacén...](2021/challenge_07/README.md)             | [Ver](2021/challenge_07/solution.js) | Medio        |
 | 08| [La locura de las criptomonedas.](2021/challenge_08/README.md)       | [Ver](2021/challenge_08/solution.js) | Medio        |
 | 09| [Agrupando cosas automáticamente](2021/challenge_09/README.md)       | [Ver](2021/challenge_09/solution.js) | Dificil      |
+| 10| [La máquina de cambio](2021/challenge_10/README.md)                  | [Ver](2021/challenge_10/solution.js) | Dificil      |
 
 </details>
 
@@ -47,6 +48,7 @@
 | 07| [Haciendo inventario de regalos](2022/challenge_07/README.md)                   | [Ver](2022/challenge_07/solution.js) | Facil        |
 | 08| [Necesitamos un mecanico!](2022/challenge_08/README.md)                         | [Ver](2022/challenge_08/solution.js) | Medio        |
 | 09| [Las locas luces de Navidad](2022/challenge_09/README.md)                       | [Ver](2022/challenge_09/solution.js) | Facil        |
+| 10| [El salto del trineo de Papá Noel](2022/challenge_10/README.md)                 | [Ver](2022/challenge_10/solution.js) | Medio        |
 
 </details>
 
