@@ -12,18 +12,19 @@
 
 ### Retos
 
-| # | Reto                                                                 |  Solucion                            |  Dificultad  |
-|:-:|:--------------------------------------------------------------------:|:------------------------------------:|:------------:|
-| 01| [Contando ovejas para dormir](2021/challenge_01/README.md)           | [Ver](2021/challenge_01/solution.js) | Facil        |
-| 02| [Ayuda al elfo a listar los regalos!](2021/challenge_02/README.md)   | [Ver](2021/challenge_02/solution.js) | Facil        |
-| 03| [El Grinch quiere fastidiar la Navidad](2021/challenge_03/README.md) | [Ver](2021/challenge_03/solution.js) | Medio        |
-| 04| [¡Es hora de poner la navidad en casa!](2021/challenge_04/README.md) | [Ver](2021/challenge_04/solution.js) | Medio        |
-| 05| [Contando los días para los regalos](2021/challenge_05/README.md)    | [Ver](2021/challenge_05/solution.js) | Facil        |
-| 06| [Rematando los exámenes finales](2021/challenge_06/README.md)        | [Ver](2021/challenge_06/solution.js) | Medio        |
-| 07| [Buscando en el almacén...](2021/challenge_07/README.md)             | [Ver](2021/challenge_07/solution.js) | Medio        |
-| 08| [La locura de las criptomonedas.](2021/challenge_08/README.md)       | [Ver](2021/challenge_08/solution.js) | Medio        |
-| 09| [Agrupando cosas automáticamente](2021/challenge_09/README.md)       | [Ver](2021/challenge_09/solution.js) | Dificil      |
-| 10| [La máquina de cambio](2021/challenge_10/README.md)                  | [Ver](2021/challenge_10/solution.js) | Dificil      |
+| # | Reto                                                                       |  Solucion                            |  Dificultad  |
+|:-:|:--------------------------------------------------------------------------:|:------------------------------------:|:------------:|
+| 01| [Contando ovejas para dormir](2021/challenge_01/README.md)                 | [Ver](2021/challenge_01/solution.js) | Facil        |
+| 02| [Ayuda al elfo a listar los regalos!](2021/challenge_02/README.md)         | [Ver](2021/challenge_02/solution.js) | Facil        |
+| 03| [El Grinch quiere fastidiar la Navidad](2021/challenge_03/README.md)       | [Ver](2021/challenge_03/solution.js) | Medio        |
+| 04| [¡Es hora de poner la navidad en casa!](2021/challenge_04/README.md)       | [Ver](2021/challenge_04/solution.js) | Medio        |
+| 05| [Contando los días para los regalos](2021/challenge_05/README.md)          | [Ver](2021/challenge_05/solution.js) | Facil        |
+| 06| [Rematando los exámenes finales](2021/challenge_06/README.md)              | [Ver](2021/challenge_06/solution.js) | Medio        |
+| 07| [Buscando en el almacén...](2021/challenge_07/README.md)                   | [Ver](2021/challenge_07/solution.js) | Medio        |
+| 08| [La locura de las criptomonedas.](2021/challenge_08/README.md)             | [Ver](2021/challenge_08/solution.js) | Medio        |
+| 09| [Agrupando cosas automáticamente](2021/challenge_09/README.md)             | [Ver](2021/challenge_09/solution.js) | Dificil      |
+| 10| [La máquina de cambio](2021/challenge_10/README.md)                        | [Ver](2021/challenge_10/solution.js) | Dificil      |
+| 11| [¿Vale la pena la tarjeta fidelidad del cine?](2021/challenge_11/README.md)| [Ver](2021/challenge_11/solution.js) | Medio        |
 
 </details>
 
@@ -49,6 +50,7 @@
 | 08| [Necesitamos un mecanico!](2022/challenge_08/README.md)                         | [Ver](2022/challenge_08/solution.js) | Medio        |
 | 09| [Las locas luces de Navidad](2022/challenge_09/README.md)                       | [Ver](2022/challenge_09/solution.js) | Facil        |
 | 10| [El salto del trineo de Papá Noel](2022/challenge_10/README.md)                 | [Ver](2022/challenge_10/solution.js) | Medio        |
+| 11| [Papá Noel es Scrum Master](2022/challenge_11/README.md)                        | [Ver](2022/challenge_11/solution.js) | Dificil      |
 
 </details>
 
@@ -74,5 +76,6 @@
 | 08| [Ordenando el almacén](2023/challenge_08/README.md)           | [Ver](2023/challenge_08/solution.js) | Medio        |
 | 09| [Alterna las luces](2023/challenge_09/README.md)              | [Ver](2023/challenge_09/solution.js) | Facil        |
 | 10| [Crea tu propio árbol de navidad](2023/challenge_10/README.md)| [Ver](2023/challenge_10/solution.js) | Facil        |
+| 11| [Los elfos estudiosos](2023/challenge_11/README.md)           | [Ver](2023/challenge_11/solution.js) | Medio        |
 
 </details>
