@@ -5,11 +5,11 @@ function createChristmasTree(ornaments, height) {
   ornaments = ornaments.padEnd((height * (height + 1)) / 2, ornaments)
 
   for (const _ of new Array(height)) {
-    const filled = [...ornaments].slice(aux, aux + i).join(' ') + '\n'
-    tree += ' '.repeat(height - i) + filled
+    const filled = ornaments.slice(aux, aux + i).split('').join(' ') + '\n'
+    tree += filled.padStart(height + i)
     aux = aux + i
     i++
   }
 
-  return tree += ' '.repeat(Math.floor(height - 1)) + '|\n'
+  return tree += '|\n'.padStart(height + 1)
 }
