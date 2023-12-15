@@ -79,5 +79,6 @@
 | 09| [Alterna las luces](2023/challenge_09/README.md)              | [Ver](2023/challenge_09/solution.js) | Facil        |
 | 10| [Crea tu propio árbol de navidad](2023/challenge_10/README.md)| [Ver](2023/challenge_10/solution.js) | Facil        |
 | 11| [Los elfos estudiosos](2023/challenge_11/README.md)           | [Ver](2023/challenge_11/solution.js) | Medio        |
+| 12| [¿Es una copia válida?](2023/challenge_12/README.md)          | [Ver](2023/challenge_12/solution.js) | Medio        |
 
 </details>
