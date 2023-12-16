@@ -27,6 +27,7 @@
 | 11| [¿Vale la pena la tarjeta fidelidad del cine?](2021/challenge_11/README.md)| [Ver](2021/challenge_11/solution.js) | Medio        |
 | 12| [La ruta perfecta para dejar los regalos](2021/challenge_12/README.md)     | [Ver](2021/challenge_12/solution.js) | Dificil      |
 | 13| [Envuelve regalos con asteriscos](2021/challenge_13/README.md)             | [Ver](2021/challenge_13/solution.js) | Facil        |
+| 14| [En busca del reno perdido](2021/challenge_14/README.md)                   | [Ver](2021/challenge_14/solution.js) | Medio        |
 
 </details>
 
@@ -55,6 +56,7 @@
 | 11| [Papá Noel es Scrum Master](2022/challenge_11/README.md)                        | [Ver](2022/challenge_11/solution.js) | Dificil      |
 | 12| [Trineos eléctricos, ¡guau!](2022/challenge_12/README.md)                       | [Ver](2022/challenge_12/solution.js) | Medio        |
 | 13| [Backup de los archivos de Papá Noel](2022/challenge_13/README.md)              | [Ver](2022/challenge_13/solution.js) | Facil        |
+| 14| [El mejor camino](2022/challenge_14/README.md)                                  | [Ver](2022/challenge_14/solution.js) | Medio        |
 
 </details>
 
@@ -83,5 +85,6 @@
 | 11| [Los elfos estudiosos](2023/challenge_11/README.md)           | [Ver](2023/challenge_11/solution.js) | Medio        |
 | 12| [¿Es una copia válida?](2023/challenge_12/README.md)          | [Ver](2023/challenge_12/solution.js) | Medio        |
 | 13| [Calculando el tiempo](2023/challenge_13/README.md)           | [Ver](2023/challenge_13/solution.js) | Facil        |
+| 14| [Evita la alarma](2023/challenge_14/README.md)           | [Ver](2023/challenge_14/solution.js) | Medio        |
 
 </details>
