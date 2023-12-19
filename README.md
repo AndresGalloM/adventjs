@@ -91,6 +91,6 @@
 | 13| [Calculando el tiempo](2023/challenge_13/README.md)           | [Ver](2023/challenge_13/solution.js) | Facil        |
 | 14| [Evita la alarma](2023/challenge_14/README.md)                | [Ver](2023/challenge_14/solution.js) | Medio        |
 | 15| [Robot autónomo](2023/challenge_15/README.md)                 | [Ver](2023/challenge_15/solution.js) | Medio        |
-| 16| [Despliegue en viernes](2023/challenge_16/README.md)          | [Ver](2023/challenge_16/solution.js) | Dificil      |
+| 16| [Despliegue en viernes](2023/challenge_16/README.md)          | [Ver](2023/challenge_16/solution.js) | Facil        |
 
 </details>
