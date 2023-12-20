@@ -31,6 +31,7 @@
 | 15| [El salto perfecto](2021/challenge_15/README.md)                           | [Ver](2021/challenge_15/solution.js) | Medio        |
 | 16| [Descifrando los números...](2021/challenge_16/README.md)                  | [Ver](2021/challenge_16/solution.js) | Facil        |
 | 17| [La locura de enviar paquetes en esta época](2021/challenge_17/README.md)  | [Ver](2021/challenge_17/solution.js) | Dificil      |
+| 18| [El sistema operativo de Santa Claus](2021/challenge_18/README.md)         | [Ver](2021/challenge_18/solution.js) | Facil        |
 
 </details>
 
@@ -63,6 +64,7 @@
 | 15| [Decorando el árbol de Navidad](2022/challenge_15/README.md)                    | [Ver](2022/challenge_15/solution.js) | Medio        |
 | 16| [Arreglando las cartas de Papá Noel](2022/challenge_16/README.md)               | [Ver](2022/challenge_16/solution.js) | Dificil      |
 | 17| [Llevando los regalos en sacos](2022/challenge_17/README.md)                    | [Ver](2022/challenge_17/solution.js) | Medio        |
+| 18| [¡Nos quedamos sin tinta!](2022/challenge_18/README.md)                         | [Ver](2022/challenge_18/solution.js) | Facil        |
 
 </details>
 
@@ -95,5 +97,6 @@
 | 15| [Robot autónomo](2023/challenge_15/README.md)                 | [Ver](2023/challenge_15/solution.js) | Medio        |
 | 16| [Despliegue en viernes](2023/challenge_16/README.md)          | [Ver](2023/challenge_16/solution.js) | Facil        |
 | 17| [Optimizando el alquiler](2023/challenge_17/README.md)        | [Ver](2023/challenge_17/solution.js) | Facil        |
+| 18| [El reloj digital](2023/challenge_18/README.md)               | [Ver](2023/challenge_18/solution.js) | Dificil      |
 
 </details>
