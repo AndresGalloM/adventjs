@@ -24,4 +24,4 @@ drawClock('01:30') // ⬇️
 
 Para saber cómo dibujar cada dígito, nos han pasado la siguiente imagen. Como ves, **cada dígito está compuesto por 7 filas y 3 columnas**. Los píxeles en rojo, nosotros lo representaremos con un asterisco (`*`), y los píxeles en blanco, con un espacio (` `):
 
-[![digits.png](https://adventjs.dev/digits.png)]
+[digits.png](https://adventjs.dev/digits.png)
