@@ -33,6 +33,7 @@
 | 17| [La locura de enviar paquetes en esta época](2021/challenge_17/README.md)  | [Ver](2021/challenge_17/solution.js) | Dificil      |
 | 18| [El sistema operativo de Santa Claus](2021/challenge_18/README.md)         | [Ver](2021/challenge_18/solution.js) | Facil        |
 | 19| [¿Qué deberíamos aprender en Platzi?](2021/challenge_19/README.md)         | [Ver](2021/challenge_19/solution.js) | Medio        |
+| 20| [¿Una carta de pangramas? ¡QUÉ!](2021/challenge_20/README.md)              | [Ver](2021/challenge_20/solution.js) | Facil        |
 
 </details>
 
@@ -67,6 +68,7 @@
 | 17| [Llevando los regalos en sacos](2022/challenge_17/README.md)                    | [Ver](2022/challenge_17/solution.js) | Medio        |
 | 18| [¡Nos quedamos sin tinta!](2022/challenge_18/README.md)                         | [Ver](2022/challenge_18/solution.js) | Facil        |
 | 19| [Ordenando los regalos](2022/challenge_19/README.md)                            | [Ver](2022/challenge_19/solution.js) | Facil        |
+| 20| [Más viajes retadores](2022/challenge_20/README.md)                             | [Ver](2022/challenge_20/solution.js) | Dificil      |
 
 </details>
 
@@ -101,5 +103,6 @@
 | 17| [Optimizando el alquiler](2023/challenge_17/README.md)        | [Ver](2023/challenge_17/solution.js) | Facil        |
 | 18| [El reloj digital](2023/challenge_18/README.md)               | [Ver](2023/challenge_18/solution.js) | Dificil      |
 | 19| [Enfrenta el sabotaje](2023/challenge_19/README.md)           | [Ver](2023/challenge_19/solution.js) | Medio        |
+| 20| [Distribuye el peso](2023/challenge_20/README.md)             | [Ver](2023/challenge_20/solution.js) | Dificil      |
 
 </details>
