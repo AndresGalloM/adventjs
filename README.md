@@ -35,6 +35,7 @@
 | 19| [¿Qué deberíamos aprender en Platzi?](2021/challenge_19/README.md)         | [Ver](2021/challenge_19/solution.js) | Medio        |
 | 20| [¿Una carta de pangramas? ¡QUÉ!](2021/challenge_20/README.md)              | [Ver](2021/challenge_20/solution.js) | Facil        |
 | 21| [La ruta con los regalos](2021/challenge_21/README.md)                     | [Ver](2021/challenge_21/solution.js) | Dificil      |
+| 22| [¿Cuantos adornos necesita el árbol?](2021/challenge_22/README.md)         | [Ver](2021/challenge_22/solution.js) | Normal       |
 
 </details>
 
@@ -71,6 +72,7 @@
 | 19| [Ordenando los regalos](2022/challenge_19/README.md)                            | [Ver](2022/challenge_19/solution.js) | Facil        |
 | 20| [Más viajes retadores](2022/challenge_20/README.md)                             | [Ver](2022/challenge_20/solution.js) | Dificil      |
 | 21| [Creando la tabla de regalos](2022/challenge_21/README.md)                      | [Ver](2022/challenge_21/solution.js) | Medio        |
+| 22| [La iluminación en sintonía](2022/challenge_22/README.md)                       | [Ver](2022/challenge_22/solution.js) | Facil        |
 
 </details>
 
@@ -107,5 +109,6 @@
 | 19| [Enfrenta el sabotaje](2023/challenge_19/README.md)           | [Ver](2023/challenge_19/solution.js) | Medio        |
 | 20| [Distribuye el peso](2023/challenge_20/README.md)             | [Ver](2023/challenge_20/solution.js) | Dificil      |
 | 21| [Mensaje binario](2023/challenge_21/README.md)                | [Ver](2023/challenge_21/solution.js) | Medio        |
+| 22| [Lenguaje de programación](2023/challenge_22/README.md)       | [Ver](2023/challenge_22/solution.js) | Facil        |
 
 </details>
