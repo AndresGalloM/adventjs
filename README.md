@@ -37,6 +37,7 @@
 | 21| [La ruta con los regalos](2021/challenge_21/README.md)                                          | [Ver](2021/challenge_21/solution.js) | Dificil      |
 | 22| [¿Cuantos adornos necesita el árbol?](2021/challenge_22/README.md)                              | [Ver](2021/challenge_22/solution.js) | Normal       |
 | 23| [¿Puedes reconfigurar las fábricas para no parar de crear regalos?](2021/challenge_23/README.md)| [Ver](2021/challenge_23/solution.js) | Muy Dificil  |
+| 24| [Comparando árboles de Navidad](2021/challenge_24/README.md)                                    | [Ver](2021/challenge_24/solution.js) | Normal       |
 
 </details>
 
@@ -75,6 +76,7 @@
 | 21| [Creando la tabla de regalos](2022/challenge_21/README.md)                      | [Ver](2022/challenge_21/solution.js) | Medio        |
 | 22| [La iluminación en sintonía](2022/challenge_22/README.md)                       | [Ver](2022/challenge_22/solution.js) | Facil        |
 | 23| [Compilador de Papá Noel](2022/challenge_23/README.md)                          | [Ver](2022/challenge_23/solution.js) | Dificil      |
+| 24| [El último reto es un laberinto](2022/challenge_24/README.md)                   | [Ver](2022/challenge_24/solution.js) | Dificil      |
 
 </details>
 
