@@ -115,5 +115,6 @@
 | 21| [Mensaje binario](2023/challenge_21/README.md)                | [Ver](2023/challenge_21/solution.js) | Medio        |
 | 22| [Lenguaje de programación](2023/challenge_22/README.md)       | [Ver](2023/challenge_22/solution.js) | Facil        |
 | 23| [La comida de Navidad](2023/challenge_23/README.md)           | [Ver](2023/challenge_23/solution.js) | Facil        |
+| 24| [Brincos en la escalera](2023/challenge_24/README.md)         | [Ver](2023/challenge_24/solution.js) | Medio        |
 
 </details>
