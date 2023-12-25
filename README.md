@@ -38,6 +38,7 @@
 | 22| [¿Cuantos adornos necesita el árbol?](2021/challenge_22/README.md)                              | [Ver](2021/challenge_22/solution.js) | Normal       |
 | 23| [¿Puedes reconfigurar las fábricas para no parar de crear regalos?](2021/challenge_23/README.md)| [Ver](2021/challenge_23/solution.js) | Muy Dificil  |
 | 24| [Comparando árboles de Navidad](2021/challenge_24/README.md)                                    | [Ver](2021/challenge_24/solution.js) | Normal       |
+| 25| [El último juego y hasta el año que viene 👋](2021/challenge_25/README.md)                      | [Ver](2021/challenge_25/solution.js) | Normal       |
 
 </details>
 
@@ -116,5 +117,6 @@
 | 22| [Lenguaje de programación](2023/challenge_22/README.md)       | [Ver](2023/challenge_22/solution.js) | Facil        |
 | 23| [La comida de Navidad](2023/challenge_23/README.md)           | [Ver](2023/challenge_23/solution.js) | Facil        |
 | 24| [Brincos en la escalera](2023/challenge_24/README.md)         | [Ver](2023/challenge_24/solution.js) | Medio        |
+| 25| [Calculando distancias](2023/challenge_25/README.md)          | [Ver](2023/challenge_25/solution.js) | Medio        |
 
 </details>
